@@ -21,3 +21,5 @@ Les attributs sont (donnés par Riccardo Leardi, riclea@anchem.unige.it )
 Sources : https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data
 
 🛑 Attention la colonne Proline possède un espace dans son nom (à la fin)
+
+L'objectif est de réaliser une ACP (Analyse à Composantes principales) sur ce Dataset. 
